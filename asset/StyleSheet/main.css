@@ -276,7 +276,8 @@ nav.nav-menu {
 }
 .sliCard {
   /* max-width: 300px !important; */
-  height: auto;
+  height: 145px;
+  overflow: hidden;
 }
 .sliCard .cli {
   color: #038d2c !important;
